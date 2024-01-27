@@ -23,7 +23,8 @@ void ebsynthRunCuda(int    numStyleChannels,
                     int*   stopThresholdPerLevel,
                     int    extraPass3x3,
                     void*  outputNnfData,
-                    void*  outputImageData)
+                    void*  outputImageData,
+                    void*  outputErrorData)
 {
 
 }
